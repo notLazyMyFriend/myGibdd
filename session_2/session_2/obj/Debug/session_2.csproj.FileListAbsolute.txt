@@ -1,0 +1,11 @@
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.csprojAssemblyReference.cache
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.Form1.resources
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.Properties.Resources.resources
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.csproj.GenerateResource.cache
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\session_2\session_2\bin\Debug\session_2.exe.config
+C:\Users\noname\source\repos\session_2\session_2\bin\Debug\session_2.exe
+C:\Users\noname\source\repos\session_2\session_2\bin\Debug\session_2.pdb
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.exe
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.pdb
+C:\Users\noname\source\repos\session_2\session_2\obj\Debug\session_2.WindowDrivers.resources
