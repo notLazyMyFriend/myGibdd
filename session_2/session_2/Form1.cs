@@ -66,5 +66,11 @@ namespace session_2
                 button1.Enabled = false;
             }
         }
+
+        private void AddNewDrv_Click(object sender, EventArgs e)
+        {
+            var formDrv = new Form2();
+            formDrv.Show();
+        }
     }
 }

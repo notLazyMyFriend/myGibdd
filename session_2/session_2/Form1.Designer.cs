@@ -33,6 +33,7 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.AddNewDrv = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox1
@@ -68,12 +69,23 @@
             this.timer1.Interval = 10000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // AddNewDrv
+            // 
+            this.AddNewDrv.Location = new System.Drawing.Point(265, 231);
+            this.AddNewDrv.Name = "AddNewDrv";
+            this.AddNewDrv.Size = new System.Drawing.Size(112, 23);
+            this.AddNewDrv.TabIndex = 3;
+            this.AddNewDrv.Text = "Add new driver";
+            this.AddNewDrv.UseVisualStyleBackColor = true;
+            this.AddNewDrv.Click += new System.EventHandler(this.AddNewDrv_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(426, 266);
+            this.Controls.Add(this.AddNewDrv);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
@@ -91,6 +103,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
         public System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button AddNewDrv;
     }
 }
 
